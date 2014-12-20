@@ -1,0 +1,9 @@
+{
+  "name": "tls-certificate-tracker",
+  "title": "TLS Certificate Tracker",
+  "id": "jid1-58sNYkSwLRwrdQ",
+  "description": "Keeps a record of all the SSL certificates you use",
+  "author": "Stefan Schneider-Kennedy",
+  "license": "BSD 2 Clause",
+  "version": "0.1"
+}
